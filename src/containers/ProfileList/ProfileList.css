@@ -1,0 +1,12 @@
+.ProfileList {
+	display: flex;
+	width: 100%;
+	justify-content: space-between;
+	margin-left: 6px;
+}
+.FullName {
+	text-align: center;
+	margin-top: 84px;
+	color: lightseagreen;
+	text-transform: uppercase;
+}

@@ -1,0 +1,9 @@
+.Header {
+	color: mediumseagreen;
+	width: 100%;
+	position: fixed;
+	top: 0;
+	left: 0;
+	background-color: rgb(233, 248, 247);
+	text-align: center;
+}
